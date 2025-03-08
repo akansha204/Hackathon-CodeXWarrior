@@ -72,3 +72,7 @@ The approach taken in this project follows these key steps:
 - Improve schema extraction logic to handle complex constraints.
 - Optimize API token usage to reduce computational costs.
 - Extend support for additional database management systems (e.g., MySQL, SQLite).
+
+  ## Flow Chart
+
+[See the flow chart](https://lucid.app/lucidchart/3e4dbbb1-3540-46d5-81cc-5ce772aaf8c0/view?page=0_0&invitationId=inv_80e9c9f9-98a0-4617-ab09-6246003d6aed#)
